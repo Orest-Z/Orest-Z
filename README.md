@@ -1,4 +1,4 @@
-Hi there, I'm Orest Z! 👋
+Hi there, I'm Orest ! 👋
 I'm a first-year Informatics student at the Faculty of Natural Sciences in Tirana. 🚀 My journey into the world of software development has just begun, and I'm eager to dive deeper into coding, algorithms, and problem-solving. 💻
 
 🔧 I love experimenting with small projects to sharpen my skills and bring creative ideas to life. Whether it's C programming, data structures, or building a password manager, I’m always excited to learn new things and improve my craft. 🛠️
