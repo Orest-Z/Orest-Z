@@ -75,17 +75,6 @@ public class Orest {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Orest-Z&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orest-Z&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160" />
-
-</div>
-
----
-
 ## 🔥 Streak
 
 <div align="center">
