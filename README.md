@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
- ██████╗ ██████╗ ███████╗███████╗████████╗    ███████╗
-██╔═══██╗██╔══██╗██╔════╝██╔════╝╚══██╔══╝    ╚════██║
-██║   ██║██████╔╝█████╗  ███████╗   ██║            ██╔╝
-██║   ██║██╔══██╗██╔══╝  ╚════██║   ██║           ██╔╝ 
-╚██████╔╝██║  ██║███████╗███████║   ██║           ██║  
- ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝           ╚═╝  
+ ██████╗ ██████╗ ███████╗███████╗████████╗
+██╔═══██╗██╔══██╗██╔════╝██╔════╝╚══██╔══╝
+██║   ██║██████╔╝█████╗  ███████╗   ██║   
+██║   ██║██╔══██╗██╔══╝  ╚════██║   ██║   
+╚██████╔╝██║  ██║███████╗███████║   ██║   
+ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝   
 ```
 
 ### Hey there 👋 I'm **Orest** — CS student, builder & tech enthusiast from Tirana 🇦🇱
@@ -40,12 +40,17 @@ public class Orest {
 
 <div align="center">
 
-### Languages
+### Languages & Frameworks
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases & APIs
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -91,12 +96,19 @@ public class Orest {
 
 ---
 
+## 🚧 Currently Building
+
+> 💰 **Finance Tracker API** — A RESTful API for tracking personal expenses & income, built with **Spring Boot** + **PostgreSQL**
+
+---
+
 ## 🌱 Currently Learning
 
+- 🔌 REST API design & best practices
+- 🐘 PostgreSQL — queries, relations, and data modeling
+- 🍃 Spring Boot — controllers, services, JPA/Hibernate
 - 📐 Data Structures & Algorithms
 - ☕ Advanced Java (Collections, Streams, Generics)
-- 🌐 Web Development fundamentals
-- 🖥️ How computers work at every level (hardware → OS → software)
 
 ---
 
