@@ -87,7 +87,7 @@ public class Orest {
 
 ## 🚧 Currently Building
 
-> 💰 **Finance Tracker API** — A RESTful API for tracking personal expenses & income, built with **Spring Boot** + **PostgreSQL
+> 💰 **Finance Tracker API** — A RESTful API for tracking personal expenses & income, built with **Spring Boot** + **PostgreSQL <br>
 > **⚽ Football Predictor AI — A predictive engine for forecasting match outcomes and performance statistics using historical datasets, built with Python + Machine Learning
 ---
 
