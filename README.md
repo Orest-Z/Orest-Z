@@ -69,6 +69,7 @@ public class Orest {
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [⚽ Football Match Predictor] | AI model to predict football match outcomes using historical data analysis | `Python` `Pandas` |
 | [🏦 Banking App](https://github.com/Orest-Z/Banking-App-Using-Java-Swing) | Lightweight desktop banking app using OOP & Event-Driven UI | `Java` `Swing` |
 | [🇦🇱 Albanian Guide Website](https://github.com/Orest-Z/Simple-Albanian-Guide-Website) | Simple informational site showcasing frontend basics | `HTML` `CSS` |
 
