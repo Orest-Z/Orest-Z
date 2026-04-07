@@ -13,7 +13,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://orest-z.github.io/Online-Portofolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Orest-Z)
-![](https://komarev.com/ghpvc/?username=Orest-Z)
+![](https://komarev.com/ghpvc/?username=Orest-Z&color=green)
 
 </div>
 
