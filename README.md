@@ -50,6 +50,11 @@ public class Orest {
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Orest-Z&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Orest's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orest-Z&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
 ### Databases & APIs
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API">
