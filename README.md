@@ -52,7 +52,7 @@ public class Orest {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Orest-Z&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Orest's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orest-Z&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orest-Z&layout=compact&theme=tokyonight&hide_border=true&hide=c%2B%2B" alt="Top Languages" />
 </div>
 
 ### Databases & APIs
