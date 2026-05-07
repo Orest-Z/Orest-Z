@@ -68,13 +68,13 @@ public class Orest {
 </div>
 
 ---
-
 ## 📌 Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [🎮 Java Competition Game](https://github.com/Orest-Z/Java-Competition-Game) | Competitive arcade-style game featuring a real-time global leaderboard | `Java` `Swing` `Firebase` |
 | [⚽ Football Match Predictor] | AI model to predict football match outcomes using historical data analysis | `Python` `Pandas` |
 | [🏦 Banking App](https://github.com/Orest-Z/Banking-App-Using-Java-Swing) | Lightweight desktop banking app using OOP & Event-Driven UI | `Java` `Swing` |
 | [🇦🇱 Albanian Guide Website](https://github.com/Orest-Z/Simple-Albanian-Guide-Website) | Simple informational site showcasing frontend basics | `HTML` `CSS` |
@@ -91,22 +91,22 @@ public class Orest {
 
 </div>
 
+---## 🚧 Currently Building
+
+> 🛍️ **Maarn Parfumes** — A professional full-stack fragrance web application featuring real-time inventory and secure checkout, built with **React (Vite)** + **Supabase** + **TanStack Query** + **Zustand** + **TypeScript**
+>
+> 💰 **Finance Tracker API** — A RESTful API for tracking personal expenses & income, built with **Spring Boot** + **PostgreSQL**
+>
+> ⚽ **Football Predictor AI** — A predictive engine for forecasting match outcomes and performance statistics using historical datasets, built with **Python** + **Machine Learning**
+
 ---
-
-## 🚧 Currently Building
-
-> 💰 **Finance Tracker API** — A RESTful API for tracking personal expenses & income, built with **Spring Boot** + **PostgreSQL <br>**
-> ⚽ Football Predictor AI — A predictive engine for forecasting match outcomes and performance statistics using historical datasets, built with **Python** + **Machine Learning**
----
-
 ## 🌱 Currently Learning
 
-- 🔌 REST API design & best practices
-- 🐘 PostgreSQL — queries, relations, and data modeling
-- 🍃 Spring Boot — controllers, services, JPA/Hibernate
-- 📐 Data Structures & Algorithms
-- ☕ Advanced Java (Collections, Streams, Generics)
-
+- ⚡ **Modern Full-Stack Architecture** — State management with Zustand & data fetching with TanStack Query
+- 🔒 **Supabase & Backend-as-a-Service** — Authentication, Row Level Security (RLS), and real-time databases
+- 🔌 **REST API Design** — Building scalable services with Spring Boot & best practices
+- 🐘 **PostgreSQL** — Advanced queries, relational data modeling, and performance optimization
+- 📐 **Data Structures & Algorithms** — Strengthening problem-solving for technical interviews
 ---
 
 ## 💬 Let's Connect
