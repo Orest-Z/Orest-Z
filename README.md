@@ -70,6 +70,7 @@ public class Orest {
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [🛡️ GuardianAI]((https://github.com/ArditCeno/CIT.Hackathone)) | AI-powered real-time bank fraud detection platform built for FiBank Hackathon (Role: AI/ML Engineer & Fullstack) | `FastAPI` `React` `Scikit-learn` `PostgreSql` |
 | [🎮 Java Competition Game](https://github.com/Orest-Z/Java-Competition-Game) | Competitive arcade-style game featuring a real-time global leaderboard | `Java` `Swing` `Firebase` |
 | [⚽ Football Match Predictor] | AI model to predict football match outcomes using historical data analysis | `Python` `Pandas` |
 | [🏦 Banking App](https://github.com/Orest-Z/Banking-App-Using-Java-Swing) | Lightweight desktop banking app using OOP & Event-Driven UI | `Java` `Swing` |
