@@ -93,8 +93,6 @@ public class Orest {
 
 > 🛍️ **Maarn Parfumes** — A professional full-stack fragrance web application featuring real-time inventory and secure checkout, built with **React (Vite)** + **Supabase** + **TanStack Query** + **Zustand** + **TypeScript**
 >
-> 💰 **Finance Tracker API** — A RESTful API for tracking personal expenses & income, built with **Spring Boot** + **PostgreSQL**
->
 > ⚽ **Football Predictor AI** — A predictive engine for forecasting match outcomes and performance statistics using historical datasets, built with **Python** + **Machine Learning**
 
 ---
