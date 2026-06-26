@@ -69,6 +69,7 @@ public class Orest {
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [💚 PERX](https://github.com/m4r1glen/perx) | Employee benefits marketplace with AI concierge, employer admin, provider dashboards, and secure voucher redemption. | `React` `TypeScript` `TanStack Start` `Tailwind CSS` `Supabase` `Google Maps API` |
 | [🔐 Illyrian Vault](https://github.com/Orest-Z/Illyrian-Vault) | Local, offline, fully encrypted password manager for Windows with AES-256-GCM & SQLCipher. | `C#` `WPF` `.NET` `SQLCipher` |
 | [🛡️ GuardianAI](https://github.com/ArditCeno/CIT.Hackathone) | AI-powered real-time bank fraud detection platform built for FiBank Hackathon (Role: AI/ML Engineer & Fullstack) | `FastAPI` `React` `Scikit-learn` `PostgreSQL` |
 | [🎮 Java Competition Game](https://github.com/Orest-Z/Java-Competition-Game) | Competitive arcade-style game featuring a real-time global leaderboard | `Java` `Swing` `Firebase` |
