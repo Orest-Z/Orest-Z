@@ -63,8 +63,9 @@ public class Orest {
 
 </div>
 ---
-##📌 Featured Projects
 <div align="center">
+
+## Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
