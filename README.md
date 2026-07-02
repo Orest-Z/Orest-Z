@@ -11,7 +11,7 @@
 
 ### Hey there 👋 I'm **Orest** — CS student, builder & tech enthusiast from Tirana 🇦🇱
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://orest-z.github.io/Online-Portofolio/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://orest-dev-portfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Orest-Z)
 ![](https://komarev.com/ghpvc/?username=Orest-Z&color=brightgreen)
 
