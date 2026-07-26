@@ -25,7 +25,7 @@
 public class Orest {
 
     String degree     = "Informatics @ Faculty of Natural Sciences, Tirana";
-    String year       = "2nd Year Student";
+    String year       = "3rd Year Student";
     String[] loves    = { "Clean Code", "Problem Solving", "Custom Rigs", "Future Tech" };
     String currently  = "Sharpening skills one project at a time 🔧";
 
