@@ -97,7 +97,9 @@ public class Orest {
 
 </div>
 
----## 🚧 Currently Building
+---
+
+## 🚧 Currently Building
 
 > 🛍️ **Maarn Parfumes** — A professional full-stack fragrance web application featuring real-time inventory and secure checkout, built with **React (Vite)** + **Supabase** + **TanStack Query** + **Zustand** + **TypeScript**
 >
