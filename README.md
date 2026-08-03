@@ -63,8 +63,10 @@ public class Orest {
 
 </div>
 
-<div align="center">
 ---
+
+<div align="center">
+
 
 ## Featured Projects
 
