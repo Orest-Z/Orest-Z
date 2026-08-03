@@ -70,6 +70,7 @@ public class Orest {
 | Project | Description | Tech |
 |--------|-------------|------|
 | [💚 PERX](https://github.com/Orest-Z/perx-foundation) | Employee benefits marketplace with AI concierge, employer admin, provider dashboards, and secure voucher redemption. | `React` `TypeScript` `TanStack Start` `Tailwind CSS` `Supabase` `Google Maps API` |
+| [🚗 R.S AUTO](https://rs-auto.vercel.app/) | Full-stack dealership platform featuring dynamic stock showcases, French/English localization, direct WhatsApp lead integration, and a custom admin dashboard for real-time inventory management and Supabase storage bucket media control. | `React` `TypeScript` `Vite` `Tailwind CSS` `Supabase` |
 | [🌊 Tirana Flow](https://tirana-pulse-ai.lovable.app) | Real-time smart city navigation platform built in 48h for Vibe Hack. Features AI-assisted route optimization to bypass roadblocks/protests, live crowdsourced user reporting, and automated web scrapers for real-time news event mapping. | `React` `TypeScript` `Vite` `Tailwind CSS` `Google Maps API` `AI API` |
 | [🔐 Illyrian Vault](https://github.com/Orest-Z/Illyrian-Vault) | Local, offline, fully encrypted password manager for Windows with AES-256-GCM & SQLCipher. | `C#` `WPF` `.NET` `SQLCipher` |
 | [🛡️ GuardianAI](https://github.com/ArditCeno/CIT.Hackathone) | AI-powered real-time bank fraud detection platform built for FiBank Hackathon (Role: AI/ML Engineer & Fullstack) | `FastAPI` `React` `Scikit-learn` `PostgreSQL` |
