@@ -64,14 +64,47 @@ public class Orest {
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+
+### 🖥️ Desktop & Real-time
+<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron">
+<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
 </div>
+
+---
+
+## ⭐ Featured Project
+
+<div align="center">
+
+### [📷 OmniCam](https://github.com/Orest-Z/OmniCam)
+
+**Your phone's camera as a webcam on your PC — nothing to install on the phone.**
+
+[![Stars](https://img.shields.io/github/stars/Orest-Z/OmniCam?style=for-the-badge&color=8a5cf3)](https://github.com/Orest-Z/OmniCam/stargazers)
+[![Download](https://img.shields.io/github/v/release/Orest-Z/OmniCam?style=for-the-badge&label=Download&color=3b3552)](https://github.com/Orest-Z/OmniCam/releases/latest)
+[![License: MIT](https://img.shields.io/badge/License-MIT-3b3552?style=for-the-badge)](https://github.com/Orest-Z/OmniCam/blob/main/LICENSE)
+
+<img src="https://raw.githubusercontent.com/Orest-Z/OmniCam/main/docs/gifs/desktop-demo.gif" width="640" alt="OmniCam: the PC shows a QR code, then the live preview once the phone connects">
+
+</div>
+
+Scan a QR code with your phone, tap **Start camera**, and a webcam called **OmniCam** shows up in Discord, Zoom,
+Google Meet, OBS and anything else that lists cameras. Video goes phone → PC peer-to-peer over WebRTC on your own
+network: no app on the phone, no account, no cloud, and no internet needed.
+
+- **Phone side:** a dependency-free web page served over HTTPS by the PC, streaming hardware-encoded H.264
+- **Desktop side:** Electron plus a native C++ frame pipeline (libyuv) feeding a custom DirectShow virtual camera
+- **Shipped:** Windows installer, in-app update checks, full documentation, open source under MIT
+
+`TypeScript` `Electron` `WebRTC` `C++` `DirectShow` `React`
 
 ---
 
 <div align="center">
 
 
-## Featured Projects
+## 🗂️ More Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -101,6 +134,8 @@ public class Orest {
 
 ## 🚧 Currently Building
 
+> 📷 **OmniCam** — Growing the phone-as-a-webcam app into more platforms and features; **Linux support** and a **virtual microphone** are next
+>
 > 🛍️ **Maarn Parfumes** — A professional full-stack fragrance web application featuring real-time inventory and secure checkout, built with **React (Vite)** + **Supabase** + **TanStack Query** + **Zustand** + **TypeScript**
 >
 > ⚽ **Football Predictor AI** — A predictive engine for forecasting match outcomes and performance statistics using historical datasets, built with **Python** + **Machine Learning**
