@@ -85,7 +85,7 @@ public class Orest {
 [![Download](https://img.shields.io/github/v/release/Orest-Z/OmniCam?style=for-the-badge&label=Download&color=3b3552)](https://github.com/Orest-Z/OmniCam/releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-3b3552?style=for-the-badge)](https://github.com/Orest-Z/OmniCam/blob/main/LICENSE)
 
-<img src="https://raw.githubusercontent.com/Orest-Z/OmniCam/main/docs/gifs/desktop-demo.gif" width="640" alt="OmniCam: the PC shows a QR code, then the live preview once the phone connects">
+<img src="https://raw.githubusercontent.com/Orest-Z/OmniCam/main/docs/media/gifs/desktop-demo.gif" width="640" alt="OmniCam: the PC shows a QR code, then the live preview once the phone connects">
 
 </div>
 
