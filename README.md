@@ -36,12 +36,14 @@ public class Orest {
 ```
 
 ---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ### 🌐 Frontend & State Management
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
 <img src="https://img.shields.io/badge/TanStack_Router-FF4154?style=for-the-badge&logo=reactrouter&logoColor=white" alt="TanStack Router">
 <img src="https://img.shields.io/badge/Zustand-443333?style=for-the-badge&logo=react&logoColor=white" alt="Zustand">
@@ -69,6 +71,7 @@ public class Orest {
 <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron">
 <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC">
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+
 </div>
 
 ---
@@ -103,20 +106,21 @@ network: no app on the phone, no account, no cloud, and no internet needed.
 
 <div align="center">
 
-
 ## 🗂️ More Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [📶 Vodafone Tourist Pack — Frontend](https://github.com/Orest-Z/Vodafone-Project) | Tourist eSIM/data pack flow: a Pack Finder quiz, a build-your-own plan with live pricing, on-device passport/ID scanning (OCR + MRZ) to auto-fill activation, PayPal checkout, Apple/Google Wallet passes, and a Game Hub with a daily scratch card for real discounts. | `Next.js` `React` `TypeScript` `Tailwind CSS` `PayPal` `Tesseract.js` |
+| [⚙️ Vodafone Tourist Pack — Backend](https://github.com/Orest-Z/vodafone-project-backend) | REST API behind the Tourist Pack: pack catalog and deterministic custom-plan pricing, PayPal-verified activation, eSIM provisioning with QR codes in the confirmation email, Wallet passes via PassKit, per-IP rate limiting, and the Daily Drop game hub. | `Java 21` `Spring Boot` `Spring Data JPA` `PostgreSQL` `Supabase` |
 | [💚 PERX](https://github.com/Orest-Z/perx-foundation) | Employee benefits marketplace with AI concierge, employer admin, provider dashboards, and secure voucher redemption. | `React` `TypeScript` `TanStack Start` `Tailwind CSS` `Supabase` `Google Maps API` |
 | [🚗 R.S AUTO](https://rs-auto.vercel.app/) | Full-stack dealership platform featuring dynamic stock showcases, French/English localization, direct WhatsApp lead integration, and a custom admin dashboard for real-time inventory management and Supabase storage bucket media control. | `React` `TypeScript` `Vite` `Tailwind CSS` `Supabase` |
 | [🌊 Tirana Flow](https://tirana-pulse-ai.lovable.app) | Real-time smart city navigation platform built in 48h for Vibe Hack. Features AI-assisted route optimization to bypass roadblocks/protests, live crowdsourced user reporting, and automated web scrapers for real-time news event mapping. | `React` `TypeScript` `Vite` `Tailwind CSS` `Google Maps API` `AI API` |
 | [🔐 Illyrian Vault](https://github.com/Orest-Z/Illyrian-Vault) | Local, offline, fully encrypted password manager for Windows with AES-256-GCM & SQLCipher. | `C#` `WPF` `.NET` `SQLCipher` |
-| [🛡️ GuardianAI](https://github.com/ArditCeno/CIT.Hackathone) | AI-powered real-time bank fraud detection platform built for FiBank Hackathon (Role: AI/ML Engineer & Fullstack) | `FastAPI` `React` `Scikit-learn` `PostgreSQL` |
-| [🎮 Java Competition Game](https://github.com/Orest-Z/Java-Competition-Game) | Competitive arcade-style game featuring a real-time global leaderboard | `Java` `Swing` `Firebase` |
-| [⚽ Football Match Predictor] | AI model to predict football match outcomes using historical data analysis | `Python` `Pandas` |
-| [🏦 Banking App](https://github.com/Orest-Z/Banking-App-Using-Java-Swing) | Lightweight desktop banking app using OOP & Event-Driven UI | `Java` `Swing` |
-| [🇦🇱 Albanian Guide Website](https://github.com/Orest-Z/Simple-Albanian-Guide-Website) | Simple informational site showcasing frontend basics | `HTML` `CSS` |
+| [🛡️ GuardianAI](https://github.com/ArditCeno/CIT.Hackathone) | AI-powered real-time bank fraud detection platform built for FiBank Hackathon (Role: AI/ML Engineer & Fullstack). | `FastAPI` `React` `Scikit-learn` `PostgreSQL` |
+| [🎮 Java Competition Game](https://github.com/Orest-Z/Java-Competition-Game) | Competitive arcade-style game featuring a real-time global leaderboard. | `Java` `Swing` `Firebase` |
+| ⚽ Football Match Predictor | AI model to predict football match outcomes using historical data analysis. | `Python` `Pandas` |
+| [🏦 Banking App](https://github.com/Orest-Z/Banking-App-Using-Java-Swing) | Lightweight desktop banking app using OOP & Event-Driven UI. | `Java` `Swing` |
+| [🇦🇱 Albanian Guide Website](https://github.com/Orest-Z/Simple-Albanian-Guide-Website) | Simple informational site showcasing frontend basics. | `HTML` `CSS` |
 
 </div>
 
@@ -141,6 +145,7 @@ network: no app on the phone, no account, no cloud, and no internet needed.
 > ⚽ **Football Predictor AI** — A predictive engine for forecasting match outcomes and performance statistics using historical datasets, built with **Python** + **Machine Learning**
 
 ---
+
 ## 🌱 Currently Learning
 
 - ⚡ **Modern Full-Stack Architecture** — State management with Zustand & data fetching with TanStack Query
@@ -148,6 +153,7 @@ network: no app on the phone, no account, no cloud, and no internet needed.
 - 🔌 **REST API Design** — Building scalable services with Spring Boot & best practices
 - 🐘 **PostgreSQL** — Advanced queries, relational data modeling, and performance optimization
 - 📐 **Data Structures & Algorithms** — Strengthening problem-solving for technical interviews
+
 ---
 
 ## 💬 Let's Connect
