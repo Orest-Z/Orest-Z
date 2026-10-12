@@ -96,7 +96,7 @@ public class Orest {
 
 <br><br>
 
-<a href="https://orest-z.github.io/al-dente-site/#demo"><img src="https://orest-z.github.io/al-dente-site/media/demo.gif" width="100%" alt="al dente: the plan becomes a live map, a broken import turns an arrow red and Claude fixes it"></a>
+https://github.com/user-attachments/assets/d618a53e-bbed-4adc-80a6-a096c49446b8
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -129,7 +129,7 @@ A **Claude Code plugin** that turns an agreed architecture into a live map your 
 - 🚨 **Guard:** a broken rule turns the arrow red and Claude fixes it on the spot
 - 🔍 **Review:** each pull request gets an architecture diff, failing only on new breaks
 
-`TypeScript` `Claude Code` `GitHub Actions` `npm` · zero dependencies, MIT
+`JavaScript` `Node.js` `Claude Code` `GitHub Actions` · zero dependencies, MIT
 
 </td>
 <td width="50%" valign="top">
