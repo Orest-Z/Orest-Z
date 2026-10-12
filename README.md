@@ -76,31 +76,76 @@ public class Orest {
 
 ---
 
-## ⭐ Featured Project
+## ⭐ Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
 
-### [📷 OmniCam](https://github.com/Orest-Z/OmniCam)
+<a href="https://github.com/Orest-Z/al-dente"><img src="https://raw.githubusercontent.com/Orest-Z/al-dente/main/docs/media/icon.svg" width="88" alt="al dente logo"></a>
 
-**Your phone's camera as a webcam on your PC — nothing to install on the phone.**
+<h3><a href="https://github.com/Orest-Z/al-dente">al dente</a></h3>
 
-[![Stars](https://img.shields.io/github/stars/Orest-Z/OmniCam?style=for-the-badge&color=8a5cf3)](https://github.com/Orest-Z/OmniCam/stargazers)
-[![Download](https://img.shields.io/github/v/release/Orest-Z/OmniCam?style=for-the-badge&label=Download&color=3b3552)](https://github.com/Orest-Z/OmniCam/releases/latest)
-[![License: MIT](https://img.shields.io/badge/License-MIT-3b3552?style=for-the-badge)](https://github.com/Orest-Z/OmniCam/blob/main/LICENSE)
+<b>Keeps your vibe-coded app from turning into spaghetti.</b>
 
-<img src="https://raw.githubusercontent.com/Orest-Z/OmniCam/main/docs/media/gifs/desktop-demo.gif" width="640" alt="OmniCam: the PC shows a QR code, then the live preview once the phone connects">
+<br><br>
 
-</div>
+<a href="https://github.com/Orest-Z/al-dente/stargazers"><img src="https://img.shields.io/github/stars/Orest-Z/al-dente?style=for-the-badge&color=E8552B" alt="Stars"></a>
+<a href="https://www.npmjs.com/package/al-dente"><img src="https://img.shields.io/npm/v/al-dente?style=for-the-badge&color=CB3837&logo=npm&label=npm" alt="npm"></a>
+<a href="https://orest-z.github.io/al-dente-site/"><img src="https://img.shields.io/badge/Website-al_dente-E8552B?style=for-the-badge" alt="Website"></a>
 
-Scan a QR code with your phone, tap **Start camera**, and a webcam called **OmniCam** shows up in Discord, Zoom,
-Google Meet, OBS and anything else that lists cameras. Video goes phone → PC peer-to-peer over WebRTC on your own
-network: no app on the phone, no account, no cloud, and no internet needed.
+<br><br>
 
-- **Phone side:** a dependency-free web page served over HTTPS by the PC, streaming hardware-encoded H.264
-- **Desktop side:** Electron plus a native C++ frame pipeline (libyuv) feeding a custom DirectShow virtual camera
-- **Shipped:** Windows installer, in-app update checks, full documentation, open source under MIT
+<a href="https://orest-z.github.io/al-dente-site/#demo"><img src="https://orest-z.github.io/al-dente-site/media/demo.gif" width="100%" alt="al dente: the plan becomes a live map, a broken import turns an arrow red and Claude fixes it"></a>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<a href="https://github.com/Orest-Z/OmniCam"><img src="https://raw.githubusercontent.com/Orest-Z/OmniCam/main/apps/desktop/resources/icons/icon.png" width="88" alt="OmniCam logo"></a>
+
+<h3><a href="https://github.com/Orest-Z/OmniCam">OmniCam</a></h3>
+
+<b>Your phone's camera as a webcam on your PC. Nothing to install on the phone.</b>
+
+<br><br>
+
+<a href="https://github.com/Orest-Z/OmniCam/stargazers"><img src="https://img.shields.io/github/stars/Orest-Z/OmniCam?style=for-the-badge&color=8a5cf3" alt="Stars"></a>
+<a href="https://github.com/Orest-Z/OmniCam/releases/latest"><img src="https://img.shields.io/github/v/release/Orest-Z/OmniCam?style=for-the-badge&label=Download&color=3b3552" alt="Download"></a>
+<a href="https://orest-z.github.io/OmniCam/"><img src="https://img.shields.io/badge/Website-OmniCam-8a5cf3?style=for-the-badge" alt="Website"></a>
+
+<br><br>
+
+<a href="https://github.com/Orest-Z/OmniCam"><img src="https://raw.githubusercontent.com/Orest-Z/OmniCam/main/docs/media/gifs/desktop-demo.gif" width="100%" alt="OmniCam: the PC shows a QR code, then the live preview once the phone connects"></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+A **Claude Code plugin** that turns an agreed architecture into a live map your coding agent has to respect.
+
+- 🧭 **Decide:** pick an architecture in plain words; it becomes the rules
+- 👀 **Watch:** every edit lights up on the map as it happens
+- 🚨 **Guard:** a broken rule turns the arrow red and Claude fixes it on the spot
+- 🔍 **Review:** each pull request gets an architecture diff, failing only on new breaks
+
+`TypeScript` `Claude Code` `GitHub Actions` `npm` · zero dependencies, MIT
+
+</td>
+<td width="50%" valign="top">
+
+Scan a QR code, tap **Start camera**, and a webcam called **OmniCam** shows up in Discord, Zoom, Meet and OBS. Video goes phone → PC peer-to-peer over your own Wi-Fi.
+
+- 📱 **Phone:** a dependency-free web page streaming hardware-encoded H.264
+- 🖥️ **Desktop:** Electron plus a native C++ pipeline (libyuv) feeding a DirectShow virtual camera
+- 🔒 **Private:** no app, no account, no cloud, no internet needed
+- 📦 **Shipped:** Windows installer, in-app updates, full docs, MIT
 
 `TypeScript` `Electron` `WebRTC` `C++` `DirectShow` `React`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -138,6 +183,8 @@ network: no app on the phone, no account, no cloud, and no internet needed.
 
 ## 🚧 Currently Building
 
+> 🍝 **al dente** — Growing the live architecture map for coding agents; **Cursor, Codex CLI and Gemini CLI** support plus **Kotlin and C#** are next
+>
 > 📷 **OmniCam** — Growing the phone-as-a-webcam app into more platforms and features; **Linux support** and a **virtual microphone** are next
 >
 > 🛍️ **Maarn Parfumes** — A professional full-stack fragrance web application featuring real-time inventory and secure checkout, built with **React (Vite)** + **Supabase** + **TanStack Query** + **Zustand** + **TypeScript**
