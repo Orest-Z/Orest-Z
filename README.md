@@ -90,7 +90,7 @@ public class Orest {
 
 <br><br>
 
-<a href="https://github.com/Orest-Z/al-dente/stargazers"><img src="https://img.shields.io/github/stars/Orest-Z/al-dente?style=for-the-badge&color=E8552B" alt="Stars"></a>
+<a href="https://github.com/Orest-Z/al-dente/stargazers"><img src="https://img.shields.io/github/stars/Orest-Z/al-dente?style=for-the-badge&color=E8552B&cacheSeconds=3600" alt="Stars"></a>
 <a href="https://www.npmjs.com/package/al-dente"><img src="https://img.shields.io/npm/v/al-dente?style=for-the-badge&color=CB3837&logo=npm&label=npm" alt="npm"></a>
 <a href="https://orest-z.github.io/al-dente-site/"><img src="https://img.shields.io/badge/Website-al_dente-E8552B?style=for-the-badge" alt="Website"></a>
 
@@ -109,8 +109,8 @@ https://github.com/user-attachments/assets/d618a53e-bbed-4adc-80a6-a096c49446b8
 
 <br><br>
 
-<a href="https://github.com/Orest-Z/OmniCam/stargazers"><img src="https://img.shields.io/github/stars/Orest-Z/OmniCam?style=for-the-badge&color=8a5cf3" alt="Stars"></a>
-<a href="https://github.com/Orest-Z/OmniCam/releases/latest"><img src="https://img.shields.io/github/v/release/Orest-Z/OmniCam?style=for-the-badge&label=Download&color=3b3552" alt="Download"></a>
+<a href="https://github.com/Orest-Z/OmniCam/stargazers"><img src="https://img.shields.io/github/stars/Orest-Z/OmniCam?style=for-the-badge&color=8a5cf3&cacheSeconds=3600" alt="Stars"></a>
+<a href="https://github.com/Orest-Z/OmniCam/releases/latest"><img src="https://img.shields.io/badge/Download-Windows_%7C_Linux-3b3552?style=for-the-badge&logo=github" alt="Download for Windows and Linux"></a>
 <a href="https://orest-z.github.io/OmniCam/"><img src="https://img.shields.io/badge/Website-OmniCam-8a5cf3?style=for-the-badge" alt="Website"></a>
 
 <br><br>
@@ -134,14 +134,14 @@ A **Claude Code plugin** that turns an agreed architecture into a live map your 
 </td>
 <td width="50%" valign="top">
 
-Scan a QR code, tap **Start camera**, and a webcam called **OmniCam** shows up in Discord, Zoom, Meet and OBS. Video goes phone → PC peer-to-peer over your own Wi-Fi.
+Scan a QR code, tap **Start camera**, and a webcam called **OmniCam** shows up in Discord, Zoom, Meet and OBS — on **Windows and Linux**. Video goes phone → PC peer-to-peer over your own Wi-Fi.
 
 - 📱 **Phone:** a dependency-free web page streaming hardware-encoded H.264
-- 🖥️ **Desktop:** Electron plus a native C++ pipeline (libyuv) feeding a DirectShow virtual camera
+- 🖥️ **Desktop:** Electron plus a native C++ pipeline (libyuv) feeding a virtual camera (DirectShow on Windows)
 - 🔒 **Private:** no app, no account, no cloud, no internet needed
-- 📦 **Shipped:** Windows installer, in-app updates, full docs, MIT
+- 📦 **Shipped:** Windows and Linux releases, in-app updates, full docs, MIT
 
-`TypeScript` `Electron` `WebRTC` `C++` `DirectShow` `React`
+`TypeScript` `Electron` `WebRTC` `C++` `DirectShow` `Linux` `React`
 
 </td>
 </tr>
@@ -185,7 +185,7 @@ Scan a QR code, tap **Start camera**, and a webcam called **OmniCam** shows up i
 
 > 🍝 **al dente** — Growing the live architecture map for coding agents; **Cursor, Codex CLI and Gemini CLI** support plus **Kotlin and C#** are next
 >
-> 📷 **OmniCam** — Growing the phone-as-a-webcam app into more platforms and features; **Linux support** and a **virtual microphone** are next
+> 📷 **OmniCam** — Growing the phone-as-a-webcam app into more platforms and features; **Linux support has shipped**, and a **virtual microphone** is next
 >
 > 🛍️ **Maarn Parfumes** — A professional full-stack fragrance web application featuring real-time inventory and secure checkout, built with **React (Vite)** + **Supabase** + **TanStack Query** + **Zustand** + **TypeScript**
 >
