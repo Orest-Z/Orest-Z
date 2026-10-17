@@ -187,8 +187,6 @@ Scan a QR code, tap **Start camera**, and a webcam called **OmniCam** shows up i
 >
 > 📷 **OmniCam** — Growing the phone-as-a-webcam app into more platforms and features; **Linux support has shipped**, and a **virtual microphone** is next
 >
-> 🛍️ **Maarn Parfumes** — A professional full-stack fragrance web application featuring real-time inventory and secure checkout, built with **React (Vite)** + **Supabase** + **TanStack Query** + **Zustand** + **TypeScript**
->
 > ⚽ **Football Predictor AI** — A predictive engine for forecasting match outcomes and performance statistics using historical datasets, built with **Python** + **Machine Learning**
 
 ---
