@@ -145,6 +145,40 @@ Scan a QR code, tap **Start camera**, and a webcam called **OmniCam** shows up i
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+<a href="https://kuqezi.vercel.app"><img src="assets/arena-view-icon.svg" width="88" alt="Arena View logo"></a>
+
+<h3><a href="https://kuqezi.vercel.app">Arena View · Tirana</a></h3>
+
+<b>Pick any seat in Albania's national stadium and see the pitch from it, in 3D.</b>
+
+<br><br>
+
+<a href="https://kuqezi.vercel.app"><img src="https://img.shields.io/badge/Seats-21%2C709-111216?style=for-the-badge" alt="21,709 seats"></a>
+<a href="https://kuqezi.vercel.app"><img src="https://img.shields.io/badge/Website-Arena_View-E41E20?style=for-the-badge" alt="Website"></a>
+
+<br><br>
+
+<a href="https://kuqezi.vercel.app"><img src="assets/arena-view.gif" width="100%" alt="Arena View: Air Albania Stadium in the 3D city of Tirana, switching from day to floodlit night"></a>
+
+</td>
+<td width="50%" valign="top">
+
+An **unofficial, fan-made** 3D model of **Air Albania Stadium** in Tirana that runs in the browser. Fly from the city into a stand, a block and a seat, then see the pitch from exactly there. Made because a flat seat map doesn't show what you'll actually see.
+
+- 🏟️ **Real seats:** all 21,709 seats placed row by row from the official seat-map listings
+- 🎥 **One camera:** city → stand → block → seat → your view in one continuous flight, no page loads
+- 🛠️ **All in code:** stadium, roof, facade, crowd and players are generated in code and shaders, no 3D model files; the city around it comes from OpenStreetMap
+- 🌙 **Matchday:** floodlit night mode, 20,000+ animated fans, a shareable link for every seat, English and Albanian, works on phones
+
+`TypeScript` `Next.js` `Three.js` `React Three Fiber` `GLSL` `OpenStreetMap` `Vercel`
+
+<sub>Not affiliated with Air Albania Stadium, FSHF or any ticket seller.</sub>
+
+</td>
+</tr>
 </table>
 
 ---
