@@ -82,21 +82,21 @@ public class Orest {
 <tr>
 <td width="50%" valign="top" align="center">
 
-<a href="https://github.com/Orest-Z/al-dente"><img src="https://raw.githubusercontent.com/Orest-Z/al-dente/main/docs/media/icon.svg" width="88" alt="al dente logo"></a>
+<a href="https://github.com/Orest-Z/player-four"><img src="https://raw.githubusercontent.com/Orest-Z/player-four/main/brand/player-four-mark.svg" width="88" alt="Player Four logo"></a>
 
-<h3><a href="https://github.com/Orest-Z/al-dente">al dente</a></h3>
+<h3><a href="https://github.com/Orest-Z/player-four">Player Four</a></h3>
 
-<b>Keeps your vibe-coded app from turning into spaghetti.</b>
-
-<br><br>
-
-<a href="https://github.com/Orest-Z/al-dente/stargazers"><img src="https://img.shields.io/github/stars/Orest-Z/al-dente?style=for-the-badge&color=E8552B&cacheSeconds=3600" alt="Stars"></a>
-<a href="https://www.npmjs.com/package/al-dente"><img src="https://img.shields.io/npm/v/al-dente?style=for-the-badge&color=CB3837&logo=npm&label=npm" alt="npm"></a>
-<a href="https://orest-z.github.io/al-dente-site/"><img src="https://img.shields.io/badge/Website-al_dente-E8552B?style=for-the-badge" alt="Website"></a>
+<b>Up to four phones become Xbox controllers on your PC, from one QR code.</b>
 
 <br><br>
 
-https://github.com/user-attachments/assets/d618a53e-bbed-4adc-80a6-a096c49446b8
+<a href="https://github.com/Orest-Z/player-four/stargazers"><img src="https://img.shields.io/github/stars/Orest-Z/player-four?style=for-the-badge&color=3b82f6&cacheSeconds=3600" alt="Stars"></a>
+<a href="https://github.com/Orest-Z/player-four/releases/latest"><img src="https://img.shields.io/github/v/release/Orest-Z/player-four?style=for-the-badge&label=Download&color=3b82f6&logo=github" alt="Download the latest release for Windows"></a>
+<a href="https://github.com/Orest-Z/player-four"><img src="https://img.shields.io/badge/Players-up_to_4-111216?style=for-the-badge" alt="Up to 4 players"></a>
+
+<br><br>
+
+<a href="https://github.com/Orest-Z/player-four"><img src="https://raw.githubusercontent.com/Orest-Z/player-four/main/docs/pc-window.png" width="100%" alt="Player Four on the PC: a QR code to scan and two connected players with live inputs"></a>
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -122,14 +122,14 @@ https://github.com/user-attachments/assets/d618a53e-bbed-4adc-80a6-a096c49446b8
 <tr>
 <td width="50%" valign="top">
 
-A **Claude Code plugin** that turns an agreed architecture into a live map your coding agent has to respect.
+Scan a QR code and up to **four phones** become **Xbox 360 controllers** that every PC game sees, for couch co-op, party and racing games. Phones talk straight to the PC over Wi-Fi.
 
-- 🧭 **Decide:** pick an architecture in plain words; it becomes the rules
-- 👀 **Watch:** every edit lights up on the map as it happens
-- 🚨 **Guard:** a broken rule turns the arrow red and Claude fixes it on the spot
-- 🔍 **Review:** each pull request gets an architecture diff, failing only on new breaks
+- 🏎️ **Racing:** tilt to steer or turn a touch wheel up to 1080°, with analog gas and brake
+- 🎮 **Layouts:** Racing, Party, Retro and a full pad; the phone shakes when the game rumbles
+- ⚡ **Fast:** WebRTC from phone to PC with no server; a late input is dropped, not waited for
+- 📦 **Shipped:** one-file Windows download that tells you about updates, tested in CI, MIT
 
-`JavaScript` `Node.js` `Claude Code` `GitHub Actions` · zero dependencies, MIT
+`Rust` `WebRTC` `JavaScript` `egui` `ViGEmBus` `GitHub Actions`
 
 </td>
 <td width="50%" valign="top">
@@ -164,18 +164,51 @@ Scan a QR code, tap **Start camera**, and a webcam called **OmniCam** shows up i
 <a href="https://kuqezi.vercel.app"><img src="assets/arena-view.gif" width="100%" alt="Arena View: Air Albania Stadium in the 3D city of Tirana, switching from day to floodlit night"></a>
 
 </td>
+<td width="50%" valign="top" align="center">
+
+<a href="https://github.com/Orest-Z/al-dente"><img src="https://raw.githubusercontent.com/Orest-Z/al-dente/main/docs/media/icon.svg" width="88" alt="al dente logo"></a>
+
+<h3><a href="https://github.com/Orest-Z/al-dente">al dente</a></h3>
+
+<b>Keeps your vibe-coded app from turning into spaghetti.</b>
+
+<br><br>
+
+<a href="https://github.com/Orest-Z/al-dente/stargazers"><img src="https://img.shields.io/github/stars/Orest-Z/al-dente?style=for-the-badge&color=E8552B&cacheSeconds=3600" alt="Stars"></a>
+<a href="https://www.npmjs.com/package/al-dente"><img src="https://img.shields.io/npm/v/al-dente?style=for-the-badge&color=CB3837&logo=npm&label=npm" alt="npm"></a>
+<a href="https://orest-z.github.io/al-dente-site/"><img src="https://img.shields.io/badge/Website-al_dente-E8552B?style=for-the-badge" alt="Website"></a>
+
+<br><br>
+
+https://github.com/user-attachments/assets/d618a53e-bbed-4adc-80a6-a096c49446b8
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-An **unofficial, fan-made** 3D model of **Air Albania Stadium** in Tirana that runs in the browser. Fly from the city into a stand, a block and a seat, then see the pitch from exactly there. Made because a flat seat map doesn't show what you'll actually see.
+An **unofficial, fan-made** 3D model of **Air Albania Stadium** in the browser: fly from the city to any seat and see the pitch from exactly there.
 
-- 🏟️ **Real seats:** all 21,709 seats placed row by row from the official seat-map listings
-- 🎥 **One camera:** city → stand → block → seat → your view in one continuous flight, no page loads
-- 🛠️ **All in code:** stadium, roof, facade, crowd and players are generated in code and shaders, no 3D model files; the city around it comes from OpenStreetMap
-- 🌙 **Matchday:** floodlit night mode, 20,000+ animated fans, a shareable link for every seat, English and Albanian, works on phones
+- 🏟️ **Real seats:** all 21,709, placed row by row from the official seat map
+- 🎥 **One camera:** city → stand → block → seat in one continuous flight
+- 🛠️ **All in code:** stadium, crowd and players from code and shaders; the city from OpenStreetMap
+- 🌙 **Matchday:** floodlit night mode, 20,000+ animated fans, a link for every seat
 
-`TypeScript` `Next.js` `Three.js` `React Three Fiber` `GLSL` `OpenStreetMap` `Vercel`
+`TypeScript` `Next.js` `Three.js` `React Three Fiber` `GLSL` `OpenStreetMap`
 
 <sub>Not affiliated with Air Albania Stadium, FSHF or any ticket seller.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+A **Claude Code plugin** that turns an agreed architecture into a live map your coding agent has to respect.
+
+- 🧭 **Decide:** pick an architecture in plain words; it becomes the rules
+- 👀 **Watch:** every edit lights up on the map as it happens
+- 🚨 **Guard:** a broken rule turns the arrow red and Claude fixes it on the spot
+- 🔍 **Review:** each pull request gets an architecture diff, failing only on new breaks
+
+`JavaScript` `Node.js` `Claude Code` `GitHub Actions` · zero dependencies, MIT
 
 </td>
 </tr>
